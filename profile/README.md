@@ -22,7 +22,7 @@
 
 **PyCon US** is the largest annual gathering for the Python community. We bring together developers, educators, scientists, and enthusiasts from around the world to share knowledge, build connections, and celebrate Python.
 
-This organization hosts the infrastructure and tools that power PyCon US conferences globally.
+This organization hosts the infrastructure and tools that power PyCon conferences globally.
 
 <br clear="right"/>
 
