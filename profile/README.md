@@ -29,9 +29,6 @@ This organization hosts the infrastructure and tools that power PyCon conference
 
 **Community** &nbsp;&nbsp;
 [![Code of Conduct](https://img.shields.io/badge/Code_of_Conduct-306998?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://policies.python.org/us.pycon.org/code-of-conduct/)
-[![Contributing](https://img.shields.io/badge/Contributing-306998?style=flat-square&logo=git&logoColor=white)](./CONTRIBUTING.md)
-[![Security](https://img.shields.io/badge/Security-306998?style=flat-square&logo=shield&logoColor=white)](./SECURITY.md)
-[![Support](https://img.shields.io/badge/Support-306998?style=flat-square&logo=headphones&logoColor=white)](./SUPPORT.md)
 
 **Connect** &nbsp;&nbsp;
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/4Hm36PPgpG)
