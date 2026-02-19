@@ -46,19 +46,6 @@ PyCon US is made possible by the generous support of our sponsors. Sponsorship d
 
 <div align="center">
 
-### Visionary
-
-<sub>Become our first Visionary sponsor — [Learn more](https://us.pycon.org/2026/sponsorship/why-sponsor/)</sub>
-
-### Sustainability
-
-<sub>Sponsorship opportunities available — [Contact us](https://us.pycon.org/2026/sponsorship/why-sponsor/)</sub>
-
-### Maintaining
-
-<sub>Sponsorship opportunities available — [Contact us](https://us.pycon.org/2026/sponsorship/why-sponsor/)</sub>
-
----
 
 <a href="https://us.pycon.org/2026/sponsorship/why-sponsor/">
   <img src="https://img.shields.io/badge/Become_a_Sponsor-ffd43b?style=for-the-badge&logo=python&logoColor=306998" alt="Become a Sponsor"/>
