@@ -5,7 +5,7 @@
   <img src="https://us.pycon.org/2026/static/images/theme/logo.25d1b5ccb097.svg" width="140" alt="PyCon US 2026"/>
 </a>
 
-### **PyCon US 2026** · Long Beach, CA · May 14–22
+### **PyCon US 2026** · Long Beach, CA · May 13–19
 
 <p>
   <a href="https://us.pycon.org/2026/"><img src="https://img.shields.io/badge/WEBSITE-306998?style=for-the-badge&logo=python&logoColor=ffd43b" alt="Website"></a>
@@ -20,9 +20,9 @@
 
 <img align="right" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" width="80" alt="Python"/>
 
-**PyCon** is the largest annual gathering for the Python community. We bring together developers, educators, scientists, and enthusiasts from around the world to share knowledge, build connections, and celebrate Python.
+**PyCon US** is the largest annual gathering for the Python community. We bring together developers, educators, scientists, and enthusiasts from around the world to share knowledge, build connections, and celebrate Python.
 
-This organization hosts the infrastructure and tools that power PyCon conferences globally.
+This organization hosts the infrastructure and tools that power PyCon US conferences globally.
 
 <br clear="right"/>
 
@@ -42,7 +42,7 @@ This organization hosts the infrastructure and tools that power PyCon conference
 
 ## Sponsors
 
-PyCon is made possible by the generous support of our sponsors. Sponsorship directly supports financial aid, accessibility services, and community programs.
+PyCon US is made possible by the generous support of our sponsors. Sponsorship directly supports financial aid, accessibility services, and community programs.
 
 <div align="center">
 
@@ -74,7 +74,7 @@ PyCon is made possible by the generous support of our sponsors. Sponsorship dire
   <img src="https://www.python.org/static/img/psf-logo.png" width="180" alt="Python Software Foundation"/>
 </a>
 
-The [Python Software Foundation](https://www.python.org/psf-landing/) is a non-profit organization devoted to advancing open source technology related to the Python programming language. PyCon is the PSF's primary fundraising event, with proceeds supporting Python development, community grants, and educational initiatives worldwide.
+The [Python Software Foundation](https://www.python.org/psf-landing/) is a non-profit organization devoted to advancing open source technology related to the Python programming language. PyCon US is the PSF's primary fundraising event, with proceeds supporting Python development, community grants, and educational initiatives worldwide.
 
 <p>
   <a href="https://www.python.org/psf/donations/"><img src="https://img.shields.io/badge/Donate_to_PSF-306998?style=flat-square&logo=python&logoColor=ffd43b" alt="Donate"></a>
@@ -90,7 +90,7 @@ The [Python Software Foundation](https://www.python.org/psf-landing/) is a non-p
 
 **[Code of Conduct](https://policies.python.org/us.pycon.org/code-of-conduct/)** · **[Privacy Policy](https://policies.python.org/us.pycon.org/Privacy-Notice/)** · **[PSF Bylaws](https://www.python.org/psf/bylaws/)**
 
-PyCon is a service mark of the Python Software Foundation.
+PyCon US is a service mark of the Python Software Foundation.
 
 </sub>
 
