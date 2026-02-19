@@ -10,7 +10,6 @@
 <p>
   <a href="https://us.pycon.org/2026/"><img src="https://img.shields.io/badge/WEBSITE-306998?style=for-the-badge&logo=python&logoColor=ffd43b" alt="Website"></a>
   <a href="https://us.pycon.org/2026/attend/information/"><img src="https://img.shields.io/badge/REGISTER-ffd43b?style=for-the-badge&logoColor=306998" alt="Register"></a>
-  <a href="https://us.pycon.org/2026/speaking/"><img src="https://img.shields.io/badge/SPEAK-306998?style=for-the-badge&logo=slides&logoColor=ffd43b" alt="Speak"></a>
   <a href="https://us.pycon.org/2026/sponsorship/why-sponsor/"><img src="https://img.shields.io/badge/SPONSOR-ffd43b?style=for-the-badge&logo=githubsponsors&logoColor=306998" alt="Sponsor"></a>
 </p>
 
